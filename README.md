@@ -1,8 +1,9 @@
-# Tia_Portal_Workspace
-# Electrical and Push Button Interlock Ladder Diagrams and Tag Tables
 
-In this section, I shared with you the ladder diagrams for different basic projects over 
-the Siemens S7-1200 model PLC via the Tia Portal program. 
-I aimed to teach you the block and tag tables used in PLC programming and the logic of input and output. 
-I would like to share factory simulations and more advanced projects with FactoryIO in the future.
-sincerely :)
+<h1 align="center">PLC PROGRAMMING TIA PORTAL EXAMPLES</h1>
+
+**We share examples to show how PLC elements are programmed through the Tia Portal program of Siemens. 
+The operation of the diagrams was observed with PLCSim program. As a device, I performed the simulations on the S7-1200.
+In the coming days, I will also include ladder diagrams and working logic on the readme and medium page in each project folder. 
+I would like to share the text-based programming method (STL) of PLC elements and how the operation of the units can be 
+observed with three-dimensional simulations such as factory io. 
+Stay tuned 👋**
